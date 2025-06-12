@@ -1,2 +1,2 @@
-forceUpdate=true
+minVersion=4
 updateUrl=https://play.google.com/store/apps/details?id=your.app.id
