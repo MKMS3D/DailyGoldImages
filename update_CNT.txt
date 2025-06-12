@@ -1,2 +1,2 @@
-minVersion=4
+minVersion=1
 updateUrl=https://play.google.com/store/apps/details?id=your.app.id
