@@ -1,0 +1,2 @@
+forceUpdate=true
+updateUrl=https://play.google.com/store/apps/details?id=your.app.id
