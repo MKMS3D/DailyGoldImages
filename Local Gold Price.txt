@@ -1,2 +1,2 @@
-Egypt=true
+Egypt=false
 localUsdInEgypt=100
