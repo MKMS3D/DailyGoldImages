@@ -1,2 +1,2 @@
-Egypt=false
-localUsdInEgypt=100
+Egypt=true 
+localUsdInEgypt=50.7
