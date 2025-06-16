@@ -1,2 +1,2 @@
 Egypt=true
-localUsdInEgypt=100
+localUsdInEgypt=50
