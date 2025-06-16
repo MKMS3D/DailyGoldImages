@@ -1,2 +1,2 @@
 Egypt=fales
-EG-21G=5000
+EG-21G=4900
