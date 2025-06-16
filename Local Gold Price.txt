@@ -1,2 +1,2 @@
-Egypt=fales
+Egypt=true
 EG-21G=4900
