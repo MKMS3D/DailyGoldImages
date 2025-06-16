@@ -1,0 +1,2 @@
+Egypt=true
+EG-21G=5000
