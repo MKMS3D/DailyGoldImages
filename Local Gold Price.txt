@@ -1,16 +1,16 @@
 Egypt=true 
-localUsdInEgypt=47.8
+localUsdInEgypt=48.1
+
+
+
+ 
 
 
 
 
 
 
-
-
-
-
-
+ 
 
 
 
