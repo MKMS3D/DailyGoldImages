@@ -1,5 +1,5 @@
 Egypt=true 
-localUsdInEgypt=48.3
+localUsdInEgypt=47.7
 
 
 
@@ -11,6 +11,7 @@ localUsdInEgypt=48.3
 
 
  
+
 
 
 
