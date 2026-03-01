@@ -1,6 +1,6 @@
 Egypt=true
-localUsdInEgypt=47.7
-SellDiff21=40
+localUsdInEgypt=50.6
+SellDiff21=100
 GlobalSellPercent=2.5
 
 
@@ -13,6 +13,7 @@ GlobalSellPercent=2.5
 
 
  
+
 
 
 
